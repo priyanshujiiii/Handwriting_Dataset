@@ -1,2 +1,3 @@
 Rishabh Singh
 21f1002538@student.onlinedegree.iitm.ac.in
+https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits
